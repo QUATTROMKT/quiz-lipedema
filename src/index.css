@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos globais extras para garantir que o Quiz fique bonito */
+body {
+  background-color: #f9fafb; /* Cinza bem clarinho de fundo */
+}
